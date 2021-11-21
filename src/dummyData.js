@@ -48,3 +48,30 @@ export const userData = [
         "Active User": 12000,
     },
 ];
+
+export const userRows = [
+    { 
+        id: 1, 
+        username: "Jon Snow 1",
+        avatar: "https://bstyle.vn/wp-content/uploads/2018/11/bill-gates.jpg",
+        email: "jonsnow@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { 
+        id: 2, 
+        username: "Jon Snow 2", 
+        avatar: "https://bstyle.vn/wp-content/uploads/2018/11/bill-gates.jpg",
+        email: "jonsnow@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+    { 
+        id: 3, 
+        username: "Jon Snow 3", 
+        avatar: "https://bstyle.vn/wp-content/uploads/2018/11/bill-gates.jpg",
+        email: "jonsnow@gmail.com",
+        status: "active",
+        transaction: "$120.00"
+    },
+];

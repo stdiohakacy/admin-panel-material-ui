@@ -4,6 +4,7 @@ import WidgetLg from '../../components/widgetLg/WidgetLg'
 import WidgetSm from '../../components/widgetSm/WidgetSm'
 import { userData } from '../../dummyData'
 import './home.css'
+import React from 'react'
 
 export default function Home() {
     return (
